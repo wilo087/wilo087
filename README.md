@@ -8,6 +8,7 @@ I'm a FullStack developer with DevOps skills🚀
 
 - 💻 &nbsp;
   ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
@@ -16,12 +17,15 @@ I'm a FullStack developer with DevOps skills🚀
   ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=FFF)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F00)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop&logoColor=007ACC)
 
 
 <p align="center">
@@ -30,9 +34,8 @@ I'm a FullStack developer with DevOps skills🚀
 </a>
 </p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
+<h3> 🤝🏻 &nbsp;Connect with Me:
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-wilo087.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/-Jan%20Guzman-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:wilo0087@gmail.com"><img src="https://img.shields.io/badge/-wilo087@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</h3>
+
