@@ -34,7 +34,8 @@ I'm a FullStack developer with DevOps skills🚀
 </a>
 </p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me:
+
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me:
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-wilo087.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:wilo0087@gmail.com"><img src="https://img.shields.io/badge/-wilo087@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </h3>
