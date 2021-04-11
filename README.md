@@ -2,7 +2,7 @@
 
 <h3> 👨‍💻 &nbsp;About Me </h3>
 
-I'm a FullStack developer with DevOps skills🚀
+I'm a simple dev that can build a entire app🚀
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
