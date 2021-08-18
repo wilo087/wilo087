@@ -2,7 +2,7 @@
 
 <h3> 👨‍💻 &nbsp;About Me </h3>
 
-I'm a simple dev that can build an entire app🚀
+I'm a simple Dev with DevOps skils 🚀
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
