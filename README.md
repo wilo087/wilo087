@@ -2,7 +2,7 @@
 
 <h3> 👨‍💻 &nbsp;About Me </h3>
 
-I'm a simple Dev with DevOps skils 🚀
+From a very young age I knew that working with software was what I wanted to do. I constantly challenge myself to learn new things and be better every day. 🚀
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
