@@ -8,12 +8,9 @@ From a very young age I knew that working with software was what I wanted to do.
 
 - 💻 &nbsp;
   ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
