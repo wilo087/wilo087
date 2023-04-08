@@ -12,18 +12,15 @@ From a very young age I knew that working with software was what I wanted to do.
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
-- 🛢 &nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+- 🫙 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=FFF)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F00)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop&logoColor=007ACC)
 
 
 <p align="center">
