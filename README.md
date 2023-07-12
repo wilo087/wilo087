@@ -30,8 +30,8 @@ From a very young age I knew that working with software was what I wanted to do.
 </p>
 
 
-<h3 align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-wilo087.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:wilo0087@gmail.com"><img src="https://img.shields.io/badge/-wilo0087@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</h3>
-
+<h3 align="center">Contacts</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilowayne-de-la-cruz-5bb8521b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:wilo0087@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
