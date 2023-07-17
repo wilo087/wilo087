@@ -23,12 +23,12 @@ From a very young age I knew that working with software was what I wanted to do.
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/wilo087">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilo087&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs" />
 </a>
 </p>
-
+-->
 
 <h3 align="center">Contacts</h3>
 <p align="center">
