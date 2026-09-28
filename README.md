@@ -14,7 +14,7 @@ From a very young age, I knew that working with software was what I wanted to do
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![REST APIs](https://img.shields.io/badge/REST_APIs-333333?style=flat)
+![REST APIs](assets/badges/rest-api.svg)
 ![GraphQL](https://img.shields.io/badge/GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
 
 ### Web & Mobile
@@ -27,25 +27,29 @@ From a very young age, I knew that working with software was what I wanted to do
 
 ### Cloud & Infrastructure
 
-![AWS](https://img.shields.io/badge/AWS-333333?style=flat)
-[![AWS CDK](https://img.shields.io/badge/AWS_CDK-333333?style=flat)](https://docs.aws.amazon.com/cdk/v2/guide/)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-333333?style=flat)
-![Amazon API Gateway](https://img.shields.io/badge/Amazon_API_Gateway-333333?style=flat)
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-333333?style=flat)
+![AWS](assets/badges/aws.svg)
+[![AWS CDK](assets/badges/aws-cdk.svg)](https://docs.aws.amazon.com/cdk/v2/guide/)
+![AWS Lambda](assets/badges/aws-lambda.svg)
+![Amazon API Gateway](assets/badges/amazon-api-gateway.svg)
+![AWS Amplify](assets/badges/aws-amplify.svg)
 
-Infrastructure as code · Amazon S3 · Amazon Cognito · Amazon EventBridge · Amazon SQS · Amazon CloudWatch
+![Amazon S3](assets/badges/amazon-s3.svg)
+![Amazon Cognito](assets/badges/amazon-cognito.svg)
+![Amazon EventBridge](assets/badges/amazon-eventbridge.svg)
+![Amazon SQS](assets/badges/amazon-sqs.svg)
+![Amazon CloudWatch](assets/badges/amazon-cloudwatch.svg)
 
 ### Databases
 
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-333333?style=flat)
+![Amazon DynamoDB](assets/badges/amazon-dynamodb.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-333333?style=flat)
+![Oracle](assets/badges/oracle.svg)
 
 ### AI & Business Integrations
 
-[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-333333?style=flat)](https://aws.amazon.com/bedrock/)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-333333?style=flat)
+[![Amazon Bedrock](assets/badges/amazon-bedrock.svg)](https://aws.amazon.com/bedrock/)
+![OpenAI API](assets/badges/openai-api.svg)
 ![Odoo](https://img.shields.io/badge/Odoo-333333?style=flat&logo=odoo)
 ![WhatsApp Business Platform](https://img.shields.io/badge/WhatsApp_Business_Platform-333333?style=flat&logo=whatsapp)
 ![Instagram API](https://img.shields.io/badge/Instagram_API-333333?style=flat&logo=instagram)
@@ -57,12 +61,12 @@ LLM tool calling · Conversational AI · Document processing · ERP/CRM integrat
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=flat&logo=githubactions)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
-![Playwright](https://img.shields.io/badge/Playwright-333333?style=flat)
+![Playwright](assets/badges/playwright.svg)
 ![pnpm](https://img.shields.io/badge/pnpm-333333?style=flat&logo=pnpm)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-333333?style=flat)
+![Visual Studio Code](assets/badges/vscode.svg)
 
 <h3 align="center">Contacts</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/wilowayne-de-la-cruz-5bb8521b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/wilowayne-de-la-cruz-5bb8521b0/"><img alt="LinkedIn" src="assets/badges/linkedin.svg"/></a>
   <a href="mailto:wilo0087@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
